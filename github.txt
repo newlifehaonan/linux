@@ -1,0 +1,31 @@
+GitHub tutoring
+======how to download your git repository=======
+git clone git@github.com:newlifehaonan/computersystem.git
+
+this is my ssh !
+
+======how to upload your file to a repository=========
+before you upload, you have to make sure that you are currently at the cd of your local repository!!!
+
+drag your file to your local repository
+
+
+1. add the file to process (ready to commit) 
+
+git add <your file or folder>
+
+2. Check your git status
+
+git status
+
+3. commit upload 
+git commit -m “your command”
+
+4. upload to remote
+git push -u origin master
+
+
+
+
+
+
