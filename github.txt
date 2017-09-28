@@ -1,6 +1,6 @@
 GitHub tutoring
 ======how to download your git repository=======
-git clone git@github.com:newlifehaonan/computersystem.git
+git clone git@github.com:<your address>
 
 this is my ssh !
 
